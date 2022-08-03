@@ -15,18 +15,22 @@
 
 
 
-### Analysis of Outcomes Based on Launch Date
+####Challenges and Difficulties Encountered
 
-### Analysis of Outcomes Based on Goals
+    I had Difficulty understand what the instructions wanted to do and 
+    how to implent actions.I went Over the Class recording and saw 
+    how to over come the mind blocks to find the correct course 
+    of action.
+    
+##### Results
 
-### Challenges and Difficulties Encountered
+    <sup> Louise Should Start her campaign in Q1 so she can be ready to get 
+    as much success in Q2 when it will be the most fruitful time. Louise 
+    Should do music and Theather they were the most successful. </sup>
+    
+    >view this bar graph
+   
+    ![Chart 1](https://user-images.githubusercontent.com/109993695/182516511-deaf383e-0264-41cf-bc44-b12594617f1e.png)
 
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+   
+    
