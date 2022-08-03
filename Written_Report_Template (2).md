@@ -29,8 +29,26 @@
     Should do music and Theather they were the most successful. </sup>
     
     >view this bar graph
-   
-    ![Chart 1](https://user-images.githubusercontent.com/109993695/182516511-deaf383e-0264-41cf-bc44-b12594617f1e.png)
+
+    
+    
+    
+    
+    
+  ![Chart 1](https://user-images.githubusercontent.com/109993695/182516639-a35d41ce-ee0a-4f46-8c22-5d325bb0a623.png)
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
    
     
