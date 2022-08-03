@@ -11,7 +11,7 @@
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/109993695/182515113-774ae212-a6b8-4669-a70e-9c7f74745a13.png)
 
 
-*** You can See May was the best month for the campaigns in the past.***
+***You can See May was the best month for the campaigns in the past.***
 
 
 
